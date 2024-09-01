@@ -1,9 +1,6 @@
 # Music_Genration_DL
 
 
-### Refer my medium article for the same: 
-https://medium.com/mlearning-ai/music-generation-using-deep-learning-49692851c57c
-
 
 ## Real World Problem
 - The objective of music generation is to explore deep learning regarding the field of music composition using artificial intelligence.
